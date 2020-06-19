@@ -1,0 +1,9 @@
+{
+    "RemoteHost": "192.168.0.255",
+    "RemotePort": 8000,
+    "LocalHost": "0.0.0.0",
+    "LocalPort": 8000,
+    "ReadBufferLength": 1024,
+    "PingTimeInterval": 10000000000,
+    "ConnectTimeoutInterval": 15000000000
+}
